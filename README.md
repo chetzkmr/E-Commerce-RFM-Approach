@@ -25,6 +25,8 @@ Key features of this project include:
     Customer Segmentation: After calculating RFM scores, customers are segmented into different groups based on their scores,
     allowing businesses to identify high-value, low-value, and other segments for targeted marketing efforts.
 
+    Conversion to Excel: After all the processing and grouping,  all the customer details have been exported to excel file.
+
 Overall, the E-Commerce-RFM-Approach project offers a valuable tool for e-commerce businesses seeking to understand and optimize their customer relationships through data-driven insights.
 
 ### Conclusion
