@@ -1,8 +1,8 @@
 # E-Commerce-RFM-Approach
-Project : E-Commerce-RFM-Approach
-Overview
+## Project : E-Commerce-RFM-Approach
+## Overview
 
-This project is an implementation of the RFM (Recency, Frequency, Monetary) approach for analyzing customer value in an e-commerce setting. RFM analysis is a technique used by businesses to segment their customer base based on their purchasing behavior. The acronym stands for:
+### This project is an implementation of the RFM (Recency, Frequency, Monetary) approach for analyzing customer value in an e-commerce setting. RFM analysis is a technique used by businesses to segment their customer base based on their purchasing behavior. The acronym stands for:
 
     Recency: How recently a customer has made a purchase
     Frequency: How often a customer makes purchases
