@@ -19,9 +19,11 @@ The E-Commerce-RFM-Approach project is a Python implementation of the RFM (Recen
 
 Key features of this project include:
 
-    RFM Calculation: The project calculates RFM scores for each customer based on their transaction history, considering the recency of purchases, frequency of purchases, and monetary value spent.
+    RFM Calculation: The project calculates RFM scores for each customer based on their transaction history, 
+    considering the recency of purchases, frequency of purchases, and monetary value spent.
 
-    Customer Segmentation: After calculating RFM scores, customers are segmented into different groups based on their scores, allowing businesses to identify high-value, low-value, and other segments for targeted marketing efforts.
+    Customer Segmentation: After calculating RFM scores, customers are segmented into different groups based on their scores,
+    allowing businesses to identify high-value, low-value, and other segments for targeted marketing efforts.
 
 Overall, the E-Commerce-RFM-Approach project offers a valuable tool for e-commerce businesses seeking to understand and optimize their customer relationships through data-driven insights.
 
